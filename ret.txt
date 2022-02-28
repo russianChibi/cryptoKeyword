@@ -1,0 +1,11 @@
+ETH    16
+ADA    6
+XRP    34
+XLM    8
+ENJ    4
+MATIC    2
+FTT    8
+IQ    14
+ATM    2
+SHIB    2
+KLAY    2
